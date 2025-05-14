@@ -1,0 +1,19 @@
+
+
+[
+    {
+    "id": 1,
+    "title": "First Blog Post",
+    "excerpt": "This is the excerpt of the first blog post.",
+    "content": "# First Blog Post\n\nHere is the full content of the first post.",
+    "tags": ["intro", "nuxt"]
+    },
+    {
+    "id": 2,
+    "title": "Second Blog Post",
+    "excerpt": "This is the excerpt of the second blog post.",
+    "content": "# Second Blog Post\n\nHere is the full content of the second post.",
+    "tags": ["nuxt", "vue"]
+    }
+    ]
+
